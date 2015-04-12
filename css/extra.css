@@ -1,0 +1,21 @@
+.thumbnail {
+  background-color: #000;
+  border: 1px solid: #42dca3;
+  border: none;
+}
+.thumbnail h3{
+  color: white;
+}
+.thumbnail p{
+  color: black;
+}
+.thumbnail .caption{
+  color: white;
+  max-width: 250px;
+}
+.thumbnail img{
+  width: 200px;
+}
+.col-lg-4 {
+  width: 90%;
+}
